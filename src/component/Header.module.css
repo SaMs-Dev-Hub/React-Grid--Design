@@ -1,0 +1,51 @@
+.main1 {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: -15px;
+    height: 70px;
+    width: 1480px;
+    position: fixed;
+  }
+
+
+.Edyoda {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    color: #0084ff;
+    margin-left: 100px;
+    padding-top: 15px;
+    cursor: pointer;
+  }
+
+  .a2 {
+    font-size: larger;
+    margin-left: 125px;
+    font-style: italic;
+    Font: Raleway;
+    cursor: pointer;
+  }
+
+  .a3 {
+    margin-top: 15px;
+    cursor: pointer;
+  }
+
+  .a1 {
+    padding-top: 15px;
+    color: gray;
+    font-size: large;
+    margin-right: 20px;
+  }
+
+  .button {
+    margin: 15px;
+    border: 2px hidden;
+    padding: 10px 30px;
+    background-color: #0084ff;
+    border-radius: 40px;
+    margin-right: 100px;
+    color: white;
+    cursor: pointer;
+  }

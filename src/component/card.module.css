@@ -1,0 +1,41 @@
+a{
+    text-decoration: none;
+}
+p{
+    color: gray;
+}
+h1{
+    font-size:25px
+}
+span{
+    color: blue;
+}
+
+
+
+  .main {
+    min-height: 250px;
+    width: 21.5%;
+    background-color: white;
+    border-radius: 10px;
+    border: 0.5px solid;
+    border-color: aqua;
+    /* flex: 3 0 33%; */
+    margin: 5px;
+    
+    margin-left: auto;
+    margin-inline-start: 50px;
+    margin-block-end: 25px;
+  }
+  .main:hover{
+    box-shadow: 10px 10px 10px gray;
+  }
+
+  .card{
+    display: flex;
+  flex-wrap: wrap;
+
+  justify-content: center;
+   
+  
+  }

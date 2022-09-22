@@ -1,0 +1,17 @@
+.main4 {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    cursor: pointer;
+  }
+
+  .f1 {
+    margin-top: 40px;
+    ;
+    justify-content: left;
+  }
+
+  .f2 {
+    margin-top: 40px;
+  } 
